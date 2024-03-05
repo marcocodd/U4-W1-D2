@@ -17,8 +17,8 @@ public class Esercizio3 {
 
            if (!stringa.equals(":q"))
             for (int i = 0; i < stringa.length(); i++) {
-                System.out.println(stringa.charAt(i));
-                System.out.print(", "); // da capire come mantenere i caratteri su singola linea
+                System.out.print(stringa.charAt(i));
+                System.out.print(", ");
             }
 
         }
