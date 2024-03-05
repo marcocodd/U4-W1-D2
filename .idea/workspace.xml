@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44d11201-6566-4a74-82b1-c778e6ff1503" name="Changes" comment="aggiunto ex 2">
+    <list default="true" id="44d11201-6566-4a74-82b1-c778e6ff1503" name="Changes" comment="aggiunto es 4, manca es 3">
+      <change afterPath="$PROJECT_DIR$/src/esercizio3/Esercizio3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +36,7 @@
   "keyToString": {
     "Application.Esercizio1.executor": "Run",
     "Application.Esercizio2.executor": "Run",
+    "Application.Esercizio3.executor": "Run",
     "Application.Esercizio4.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -43,7 +45,7 @@
     "onboarding.tips.debug.path": "E:/Corso Epicode/Java/U4-W1-D2/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Esercizio4">
+  <component name="RunManager" selected="Application.Esercizio3">
     <configuration name="Esercizio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="esercizio1.Esercizio1" />
       <module name="U4-W1-D2" />
@@ -70,6 +72,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Esercizio3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="esercizio3.Esercizio3" />
+      <module name="U4-W1-D2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="esercizio3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Esercizio4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="esercizio4.Esercizio4" />
       <module name="U4-W1-D2" />
@@ -85,6 +100,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Esercizio3" />
         <item itemvalue="Application.Esercizio4" />
         <item itemvalue="Application.Esercizio2" />
         <item itemvalue="Application.Esercizio1" />
@@ -147,14 +163,23 @@
       <option name="project" value="LOCAL" />
       <updated>1709650476013</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="aggiunto es 4, manca es 3">
+      <option name="closed" value="true" />
+      <created>1709651498215</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1709651498215</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="created repository" />
     <MESSAGE value="Esercizio 1" />
     <MESSAGE value="aggiunto ex 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="aggiunto ex 2" />
+    <MESSAGE value="aggiunto es 4, manca es 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="aggiunto es 4, manca es 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
