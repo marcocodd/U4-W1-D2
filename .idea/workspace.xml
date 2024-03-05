@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44d11201-6566-4a74-82b1-c778e6ff1503" name="Changes" comment="Esercizio 1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/esercizio1/Esercizio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/esercizio1/Esercizio1.java" afterDir="false" />
+    <list default="true" id="44d11201-6566-4a74-82b1-c778e6ff1503" name="Changes" comment="aggiunto ex 2">
+      <change beforePath="$PROJECT_DIR$/src/esercizio2/Esercizio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/esercizio2/Esercizio2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,13 +108,22 @@
       <option name="project" value="LOCAL" />
       <updated>1709649166510</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="aggiunto ex 2">
+      <option name="closed" value="true" />
+      <created>1709650333375</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709650333375</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="created repository" />
     <MESSAGE value="Esercizio 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Esercizio 1" />
+    <MESSAGE value="aggiunto ex 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="aggiunto ex 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
