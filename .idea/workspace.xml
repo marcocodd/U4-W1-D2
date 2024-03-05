@@ -4,14 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44d11201-6566-4a74-82b1-c778e6ff1503" name="Changes" comment="created repository">
+    <list default="true" id="44d11201-6566-4a74-82b1-c778e6ff1503" name="Changes" comment="Esercizio 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/esercizio1/Esercizio1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/esercizio1/Esercizio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/esercizio1/Esercizio1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -25,17 +32,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Esercizio1.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;E:/Corso Epicode/Java/U4-W1-D2/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Esercizio1.executor": "Run",
+    "Application.Esercizio2.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "E:/Corso Epicode/Java/U4-W1-D2/src/Main.java"
   }
-}</component>
-  <component name="RunManager">
+}]]></component>
+  <component name="RunManager" selected="Application.Esercizio2">
     <configuration name="Esercizio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="esercizio1.Esercizio1" />
       <module name="U4-W1-D2" />
@@ -49,8 +57,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Esercizio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="esercizio2.Esercizio2" />
+      <module name="U4-W1-D2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="esercizio2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Esercizio2" />
         <item itemvalue="Application.Esercizio1" />
       </list>
     </recent_temporary>
@@ -79,12 +101,21 @@
       <option name="project" value="LOCAL" />
       <updated>1709648279804</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Esercizio 1">
+      <option name="closed" value="true" />
+      <created>1709649166510</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709649166510</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="created repository" />
-    <option name="LAST_COMMIT_MESSAGE" value="created repository" />
+    <MESSAGE value="Esercizio 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Esercizio 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -93,6 +124,15 @@
           <url>file://$PROJECT_DIR$/src/esercizio1/Esercizio1.java</url>
           <line>5</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/esercizio2/Esercizio2.java</url>
+          <line>15</line>
+          <properties class="esercizio2.Esercizio2" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
