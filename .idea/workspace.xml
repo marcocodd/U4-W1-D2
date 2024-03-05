@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44d11201-6566-4a74-82b1-c778e6ff1503" name="Changes" comment="aggiunto es 3">
+    <list default="true" id="44d11201-6566-4a74-82b1-c778e6ff1503" name="Changes" comment="update es 3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/esercizio3/Esercizio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/esercizio3/Esercizio3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/esercizio1/Esercizio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/esercizio1/Esercizio1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -32,20 +35,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Esercizio1.executor": "Run",
-    "Application.Esercizio2.executor": "Run",
-    "Application.Esercizio3.executor": "Run",
-    "Application.Esercizio4.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "E:/Corso Epicode/Java/U4-W1-D2/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Esercizio1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Esercizio2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Esercizio3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Esercizio4.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;E:/Corso Epicode/Java/U4-W1-D2/src/Main.java&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Esercizio3">
+}</component>
+  <component name="RunManager" selected="Application.Esercizio1">
     <configuration name="Esercizio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="esercizio1.Esercizio1" />
       <module name="U4-W1-D2" />
@@ -100,10 +103,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Esercizio3" />
-        <item itemvalue="Application.Esercizio4" />
-        <item itemvalue="Application.Esercizio2" />
         <item itemvalue="Application.Esercizio1" />
+        <item itemvalue="Application.Esercizio4" />
+        <item itemvalue="Application.Esercizio3" />
+        <item itemvalue="Application.Esercizio2" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +190,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709653246018</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="update es 3">
+      <option name="closed" value="true" />
+      <created>1709653409679</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1709653409679</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -196,16 +207,12 @@
     <MESSAGE value="aggiunto ex 2" />
     <MESSAGE value="aggiunto es 4, manca es 3" />
     <MESSAGE value="aggiunto es 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="aggiunto es 3" />
+    <MESSAGE value="update es 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="update es 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/esercizio1/Esercizio1.java</url>
-          <line>5</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/esercizio2/Esercizio2.java</url>
           <line>8</line>
@@ -214,6 +221,11 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/esercizio1/Esercizio1.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
